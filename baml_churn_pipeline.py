@@ -2,7 +2,7 @@
 """
 Customer churn prediction pipeline.
 
-Created for TUM course "Business Analytics and Machine Learning" (specifically its midterm assignment)
+For TUM course "Business Analytics and Machine Learning" (midterm assignment)
 Merges several relational CSVs on a shared customer ID. 
 Preprocessing, classification pipeline, decision threshold on balanced accuracy
 """
