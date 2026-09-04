@@ -1,0 +1,7 @@
+data/
+submission.csv
+__pycache__/
+*.pyc
+.DS_Store
+venv/
+.venv/
